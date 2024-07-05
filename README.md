@@ -14,7 +14,7 @@ The **Translator App** is a simple Python application that allows users to trans
 1. **Clone the Repository**:
    - Clone this repository to your local machine using:
      ```
-     git clone https://github.com/Ash10-Mar10/Language_Translator.git
+     git clone https://github.com/Ash10-Mar10/LanguageTranslator.git
      ```
 
 2. **Install Dependencies**:

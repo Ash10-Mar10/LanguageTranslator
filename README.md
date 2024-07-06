@@ -2,6 +2,8 @@
 
 The **Language Translator App** is a straightforward Python application that empowers users to translate text from one language to another using the GoogleTrans library. With an intuitive interface, it provides quick and accurate translations.
 
+## Please note that this code has only been tested on Windows.
+
 ## Table of Contents
 
 - Installation
